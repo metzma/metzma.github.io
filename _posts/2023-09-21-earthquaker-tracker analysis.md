@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Analyzing Earthquakes 
-image: "/posts/earthquake-tracker-img.png"
+image: "img/posts/earthquake-tracker-img.png"
 tags: [Tableau, Data Analysis]
 ---
 
 # Table of contents
 
-- [00. Project Overview](#overview-main)
+- [Project Overview](#overview-main)
     - [Context](#overview-context)
     - [Actions](#overview-actions)
     - [Results & Discussion](#overview-results)
