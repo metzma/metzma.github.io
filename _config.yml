@@ -10,7 +10,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Melissa Metz
-description: "Hi I'm Melissa, and I'm a data analytics professional starting my journey in data science.  In my professional experience as a product owner, technical business analyst, and data analyst, there is one recurring theme: how can businesses advance their data journey and utilize the data they have to create meaningful insights?  Helping organizations understand how to solve these types of business problems is a passion of mine.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+description: "Hi I'm Melissa, and I'm a business intelligence professional starting my journey in data science.  In my professional experience as a product owner, technical business analyst, and data analyst, there is one recurring theme: how can businesses advance their data journey and utilize the data they have to create meaningful insights?  Helping organizations understand how to solve these types of business problems is a passion of mine.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
