@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Analyzing Earthquakes 
-image: "/img/posts/Earthquake-Tracker-img.PNG"
+image: "/posts/Earthquake-Tracker-img.PNG"
 tags: [Tableau, Data Analysis]
 ---
 
