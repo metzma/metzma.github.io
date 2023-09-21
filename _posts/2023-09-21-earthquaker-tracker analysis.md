@@ -9,7 +9,7 @@ tags: [Tableau, Data Analysis]
 
 - [Project Overview](#overview-main)
     - [Context](#overview-context)
-    - [Actions](#overview-actions)
+    - [Requirements](#overview-actions)
     - [Results & Discussion](#overview-results)
     - [Data Overview & Preparation](#data-overview)
 
@@ -24,7 +24,7 @@ As part of this project, we were contacted by the DSI organization to analyze ea
 
 <br>
 <br>
-### Actions <a name="overview-actions"></a>
+### Requirements <a name="overview-actions"></a>
 
 For this deliverable, we provided a Tableau dashboard with visuals representing the key requirements.
 Those requirements were:
