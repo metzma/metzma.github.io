@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BA to PO: Taking the Next Leap in Your Career
-image: "/posts/BA-To-PO_Article.png"
+image: "/posts/BA-To-PO_Article.PNG"
 tags: [Product Ownership, Business Analysis]
 ---
 
