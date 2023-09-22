@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Analyzing Customer Sales 
-image: "/posts/Sales-Customer-Analysis.png"
+image: "/posts/Sales-Customer-Analysis.PNG"
 tags: [PowerBI, Data Analysis]
 ---
 
