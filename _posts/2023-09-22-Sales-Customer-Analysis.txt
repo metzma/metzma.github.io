@@ -2,7 +2,7 @@
 layout: post
 title: Analyzing Customer Sales 
 image: "/posts/Sales-Customer-Analysis.png"
-tags: [PowerBI, Data Analysis, Business Nalysis]
+tags: [PowerBI, Data Analysis]
 ---
 
 In this project, our client asked for an interactive dashboard to provide analysis on customer sales.  We built this dashboard in Power BI for easy consumption based on the client already currently having access to Power BI based on their tech stack.
