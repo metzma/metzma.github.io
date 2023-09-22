@@ -5,7 +5,7 @@ image: "/posts/Sales-Customer-Analysis.png"
 tags: [PowerBI, Data Analysis]
 ---
 
-In this project, our client asked for an interactive dashboard to provide analysis on customer sales.  We built this dashboard in Power BI for easy consumption based on the client already currently having access to Power BI based on their tech stack.
+In this project, our client asked for an interactive dashboard to provide an analysis on customer sales.  We built this dashboard in Power BI for easy consumption based on the client already currently having access to Power BI based on their tech stack.
 
 # Table of contents
 
@@ -21,21 +21,21 @@ ___
 
 ### Context <a name="overview-context"></a>
 
-As part of this project, we were contacted by a client to analyze customer data over a 3 year period.  The data provided started in 2014 and continued into 2016. The client has no expanded their product offerings since this data was collected.  They are looking to expand product offerings and discontinue product offerings as well as look to discontinue selling in certain geogrphical locations.  This analysis will allow them to better understand their customers and how they perform in key areas.
+As part of this project, we were contacted by a client to analyze customer data over a 3-year period.  The data provided started in 2014 and continued into 2016. The client has not expanded their product offerings since this data was collected.  They are looking to expand product offerings and discontinue product offerings as well as look to discontinue selling in certain geographical locations.  This analysis will allow them to better understand their customers and how they perform in key areas.
 
 
 <br>
 <br>
 ### Actions <a name="overview-actions"></a>
 
-For this deliverable, we provided a Power BI dashboard with visuals reprensenting the key requirements.
+For this deliverable, we provided a Power BI dashboard with visuals representing the key requirements.
 Those requirements were:
 
-* Provide customer analysis on cummulative sales
+* Provide customer analysis on cumulative sales
 * Provide customer analysis on sales and profits based on geographical locations
 * Provide customer analysis on profit margins based on date
 * Provide sales comparisons by product by year
-* Provide profit analysis for this year vs the orviosu year
+* Provide profit analysis for this year vs the previous year
 
 ### Results & Discussion <a name="overview-results"></a>
 
@@ -57,6 +57,6 @@ Product Sales:
 <br>
 # Data Overview & Preparation  <a name="data-overview"></a>
 
-The client provided us with the necessary file and miminal manipulation was needed.  There was some data cleansing that was required which included clean up of inconsisent formatting of column values.
+The client provided us with the necessary file and minimal manipulation was needed.  There was some data cleansing that was required which included a clean up of inconsistent formatting of column values.
 <br>
 <br>
