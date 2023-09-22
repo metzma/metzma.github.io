@@ -5,7 +5,7 @@ image: "/posts/BA-To-PO_Article.PNG"
 tags: [Product Ownership, Business Analysis]
 ---
 
-This article was published in the BA Digest in Q3 2022 by Blackmetric Business Solutions Ltd
+This article was published in the BA Digest in Q3 2022 by Blackmetric Business Solutions Ltd.  Link to the article: https://heyzine.com/flip-book/3da7172400.html#page/18
 
 # Table of contents
 
