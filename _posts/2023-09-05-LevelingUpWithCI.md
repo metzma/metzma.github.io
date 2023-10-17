@@ -1,11 +1,10 @@
-![Leveling up with CI](https://github.com/metzma/metzma.github.io/assets/101017804/9eb707fd-0774-4f78-a154-81b3087b5161)---
+---
 layout: post
 title: Leveling up with CI
-
-image: ![Uploading Leveling up with CI.gif…]()
-
+image:_posts/PowerBI_LevellingUp.png
 tags: [PowerBI, Microsoft Forms, SharePoint, Data Analysis]
 ---
+![Leveling up with CI](https://github.com/metzma/metzma.github.io/assets/101017804/9eb707fd-0774-4f78-a154-81b3087b5161)
 
 In this project, our Continous Improvement team was looking for a solution that could help generate additonal interest from IT associates to particpate in identifying and implementing technology solutions or workflows to improve current processes and contribute to cost reduction savings to the IT department.
 
