@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Leveling up with CI
-image: "/posts/Leveling up with CI.gif"
+image: "Leveling up with CI.gif"
 tags: [PowerBI, Microsoft Forms, SharePoint, Data Analysis]
 ---
 
