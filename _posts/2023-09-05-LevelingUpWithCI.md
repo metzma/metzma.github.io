@@ -1,7 +1,9 @@
----
+![Leveling up with CI](https://github.com/metzma/metzma.github.io/assets/101017804/9eb707fd-0774-4f78-a154-81b3087b5161)---
 layout: post
 title: Leveling up with CI
-image: "/Leveling up with CI.gif"
+
+image: ![Uploading Leveling up with CI.gif…]()
+
 tags: [PowerBI, Microsoft Forms, SharePoint, Data Analysis]
 ---
 
